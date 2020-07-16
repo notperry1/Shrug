@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "shrug",
+        "name": "shrug",
+        "description": "Adds /shrug to Minecraft.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Katatje"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
